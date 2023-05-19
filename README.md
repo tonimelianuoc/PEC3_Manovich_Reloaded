@@ -20,13 +20,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Re-descubriendo la hibridacion: Adobe Indesign
 
-Adobe Indesign. Se trata de un software que nace en un principio para la autoedición en la impresión profesional (fundamentalmente impresión offset) y con el tiempo ha desarrollado compatibilidad con otros formatos de publicación digital, como EPUB y HTML. De esta forma actualmente se puede crear contenidos con Adobe Indesign que puede ser exportado en varios formatos digitales, adaptados a diferentes dispositivos (pantallas, móviles, tablets).
+**Adobe Indesign**. Se trata de un software que nace en un principio para la autoedición en la impresión profesional (fundamentalmente impresión offset) y con el tiempo ha desarrollado compatibilidad con otros formatos de publicación digital, como EPUB y HTML. De esta forma actualmente se puede crear contenidos con Adobe Indesign que puede ser exportado en varios formatos digitales, adaptados a diferentes dispositivos (pantallas, móviles, tablets).
 
 
 
 ## Re-descubriendo la hibridacion: Wordpress
 
-WordPress (WP). Wordpress, es un sistema de gestor de contenidos (CMS) de código abierto, que en un principio apareció como plataforma de blog. Con el paso del tiempo WP ha ido evolucionando y añadiendo nuevas funcionalidades, trabajando con contenido estático y dinámico, integrándose con otras herramientas de software para ampliar su funcionalidad (a través de plugins), permitiendo crear una amplia grama de sitios webs, desde plataformas de comercio electrónico hasta medios de comunicación.
+**WordPress (WP)**. Wordpress, es un sistema de gestor de contenidos (CMS) de código abierto, que en un principio apareció como plataforma de blog. Con el paso del tiempo WP ha ido evolucionando y añadiendo nuevas funcionalidades, trabajando con contenido estático y dinámico, integrándose con otras herramientas de software para ampliar su funcionalidad (a través de plugins), permitiendo crear una amplia grama de sitios webs, desde plataformas de comercio electrónico hasta medios de comunicación.
 
 
 
