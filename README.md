@@ -35,7 +35,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 "Hibridación de medios" (Wikipedia)
 "Lev Manovich" (Wikipedia)
 Markdown Tutorial
-* Adobe InDesign, Wikipedia [Consulta 15/05/2023]. Disponible en: (https://es.wikipedia.org/wiki/Adobe_InDesign)
+* [Adobe InDesign, Wikipedia [Consulta 15/05/2023].](https://es.wikipedia.org/wiki/Adobe_InDesign)
 * [UOC, ](http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/)
 ----
 
