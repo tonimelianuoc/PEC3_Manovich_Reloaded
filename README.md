@@ -5,7 +5,7 @@ Autor: Toni Melián Hernández <br>
 email: tonimelian@uoc.edu <br>
 Fecha: 25.05.2023
 
-![Cultura Digital](img/indesign_WP.jpg) 
+![Adobe Indesing and WordPress logos](img/indesign_WP.jpg) 
 
 
 ## Planteamiento
