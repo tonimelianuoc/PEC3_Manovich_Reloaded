@@ -1,10 +1,10 @@
-# PEC3: Visionando el futuro con las gafas de Manovich 
-
-### Recurso de aprendizaje de Cultura Digital 
+# PEC3: Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación
 
 
 Autor: Toni Melián Hernández
+
 email:tonimelian@uoc.edu
+
 Fecha: 25.05.2023
 
 ![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
