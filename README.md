@@ -29,8 +29,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
-
-
+* "El software toma el mando" Lev Manovich, 2013 (ePub)
+"Remediación, multimedia e hibridación de los medios" (Multimedia UOC)
+"Conocimiento Abierto y Tecnología" (Psicologiasocial)
+"Hibridación de medios" (Wikipedia)
+"Lev Manovich" (Wikipedia)
+Markdown Tutorial
+* Adobe InDesign, Wikipedia [Consulta 15/05/2023]. Disponible en: (https:// es.wikipedia.org/wiki/Adobe_InDesign)
+* [UOC, ](http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/)
 ----
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. 
