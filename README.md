@@ -19,6 +19,13 @@ Siguiendo con las prácticas de la UOC, a continuación presentaré dos casos de
 
 ## Planteamiento
 
+Para esta práctica, he decido usar como ejemplos de hibridación, según Lev Manovich, dos software que conozco y utilizo desde su primera aparición en el mercado y en la comunidad (hace ya casi 20 años) y que son Adobe Indesign y WordPress. 
+
+De una forma muy resumida, que extenderé en los siguientes apartados, puedo dar una primera descripción de los mismos como: 
+* **Adobe Indesign**, es el programa específico para la maquetación profesional de documentos de la familia de Adobe Creative Suite.
+* **WordPress**, es un gestor de contenidos (CMS, Content Management System) de código abierto, utilizado ampliamente para la creación de páginas webs.
+
+Según Lev Manovich, y de una forma muy esquemática, **la hibridación** es el proceso de combinar diversos elementos o influencias de diferentes fuentes o contextos culturales para crear algo nuevo. Implica la convergencia de medios, géneros o estilos diferentes, que da como resultado la creación de formas o entidades híbridas que fusionan elementos previamente distintos.
 
 ## Re-descubriendo la hibridacion: Adobe Indesign
 
