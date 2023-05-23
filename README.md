@@ -36,7 +36,7 @@ Me resulta personalmente interesante analizar estos software desde la perspectiv
 **La composición digital** de páginas o maquetación es la distribución de los elementos (tales como el texto y las imágenes) en un espacio determinado, que en el caso que nos ocupa, sería básicamente en las páginas de medios impresos y electrónicos. 
 
 
-![Adobe Indesing New document](indesign_new_document.png)
+![Adobe Indesing New document](img/indesign_new_document.png)
 
 ## Re-descubriendo la hibridacion: Wordpress
 
