@@ -17,9 +17,6 @@ Siguiendo con las prácticas de la UOC, a continuación presentaré dos casos de
 
 **WordPress (WP)**. Wordpress, es un sistema de gestor de contenidos (CMS) de código abierto, que en un principio apareció como plataforma de blog. Con el paso del tiempo WP ha ido evolucionando y añadiendo nuevas funcionalidades, trabajando con contenido estático y dinámico, integrándose con otras herramientas de software para ampliar su funcionalidad (a través de plugins), permitiendo crear una amplia grama de sitios webs, desde plataformas de comercio electrónico hasta medios de comunicación.
 
-<div style="color:green">
-test
-</div>
 
 ## Re-descubriendo la hibridacion: Adobe Indesign
 
