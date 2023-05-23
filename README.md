@@ -37,7 +37,8 @@ Me resulta personalmente interesante analizar estos software desde la perspectiv
 
 
 ![Adobe Indesing New document](img/indesign_new_document.png)
-![Adobe Indesing New document](img/indesign_new_document.png)
+Nuevo documento: plantillas para móviles
+![Adobe Indesing New document](img/indesign_new_document_movil.png)
 
 ## Re-descubriendo la hibridacion: Wordpress
 
