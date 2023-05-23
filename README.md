@@ -31,6 +31,9 @@ Me resulta personalmente interesante analizar estos software desde la perspectiv
 
 ## Re-descubriendo la hibridacion: Adobe Indesign
 
+**Adobe InDesign** es un software para la composición digital de páginas, desarrollado por la compañía Adobe Systems, que permite a los usuarios crear materiales impresos y digitales profesionales, como folletos, revistas y libros. 
+
+**La composición digital** de páginas o maquetación es la distribución de los elementos (tales como el texto y las imágenes) en un espacio determinado, que en el caso que nos ocupa, sería básicamente en las páginas de medios impresos y electrónicos. 
 
 
 ## Re-descubriendo la hibridacion: Wordpress
