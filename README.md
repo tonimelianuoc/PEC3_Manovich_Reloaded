@@ -13,16 +13,17 @@ Fecha: 25.05.2023
 
 Siguiendo con las prácticas de la UOC, a continuación presentaré dos casos de hibridación según Lev Manovich
 
+**Adobe Indesign**. Se trata de un software que nace en un principio para la autoedición en la impresión profesional (fundamentalmente impresión offset) y con el tiempo ha desarrollado compatibilidad con otros formatos de publicación digital, como EPUB y HTML. De esta forma actualmente se puede crear contenidos con Adobe Indesign que puede ser exportado en varios formatos digitales, adaptados a diferentes dispositivos (pantallas, móviles, tablets).
+
+**WordPress (WP)**. Wordpress, es un sistema de gestor de contenidos (CMS) de código abierto, que en un principio apareció como plataforma de blog. Con el paso del tiempo WP ha ido evolucionando y añadiendo nuevas funcionalidades, trabajando con contenido estático y dinámico, integrándose con otras herramientas de software para ampliar su funcionalidad (a través de plugins), permitiendo crear una amplia grama de sitios webs, desde plataformas de comercio electrónico hasta medios de comunicación.
+
 
 ## Re-descubriendo la hibridacion: Adobe Indesign
-
-**Adobe Indesign**. Se trata de un software que nace en un principio para la autoedición en la impresión profesional (fundamentalmente impresión offset) y con el tiempo ha desarrollado compatibilidad con otros formatos de publicación digital, como EPUB y HTML. De esta forma actualmente se puede crear contenidos con Adobe Indesign que puede ser exportado en varios formatos digitales, adaptados a diferentes dispositivos (pantallas, móviles, tablets).
 
 
 
 ## Re-descubriendo la hibridacion: Wordpress
 
-**WordPress (WP)**. Wordpress, es un sistema de gestor de contenidos (CMS) de código abierto, que en un principio apareció como plataforma de blog. Con el paso del tiempo WP ha ido evolucionando y añadiendo nuevas funcionalidades, trabajando con contenido estático y dinámico, integrándose con otras herramientas de software para ampliar su funcionalidad (a través de plugins), permitiendo crear una amplia grama de sitios webs, desde plataformas de comercio electrónico hasta medios de comunicación.
 
 **WordPress (WP)** es un sistema de gestión de contenidos (*CMS, Content Management System*) que combina elementos de desarrollo web y plataformas de blogs. Los usuarios pueden utilizarlo para crear y administrar sitios webs utilizando una gran variedad de herramientas y funciones, además de plantillas y complementos.
 
