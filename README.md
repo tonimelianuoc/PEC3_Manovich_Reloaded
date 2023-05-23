@@ -27,6 +27,8 @@ De una forma muy resumida, que extenderé en los siguientes apartados, puedo dar
 
 Según Lev Manovich, y de una forma muy esquemática, **la hibridación** es el proceso de combinar diversos elementos o influencias de diferentes fuentes o contextos culturales para crear algo nuevo. Implica la convergencia de medios, géneros o estilos diferentes, que da como resultado la creación de formas o entidades híbridas que fusionan elementos previamente distintos.
 
+Me resulta personalmente interesante analizar estos software desde la perspectiva de Lev Manovich y poder identificar como su evolución y desarrollo en el tiempo, incorporando nuevas funcionalidades y características, ha ido generando un proceso de hibridación, a diferentes niveles, hasta convertirse en lo que son en la actualidad.
+
 ## Re-descubriendo la hibridacion: Adobe Indesign
 
 
