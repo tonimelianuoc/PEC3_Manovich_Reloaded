@@ -72,6 +72,9 @@ Precisamente la naturaleza de **código abierto** es uno de los aspectos de la *
 
 El propio proceso de desarrollo de WordPress desde su aparición hasta la actualidad, pasando de ser una plataforma exclusiva para la producción de blogs, a comenzar a dar **soporte** tanto a **contenido estático** como **dinámico** es otro aspecto de **hibridación** del mismo. WordPress permite crear páginas estáticas (como “contacto”, “metodología”) y también permite crear contenido dinámico (contenido que se muestra dependiendo de la selección que realiza el usuario), estas dos características han permitido **expandir el uso original del software** y desarrollarlo más allá de sus límites, dando la oportunidad a los usuarios de crear una amplia gama de sitios web, desde páginas corporativas hasta plataformas de comercio electrónico.
 
+![Adobe Indesing New document movil](img/indesign_new_document_movil.png)
+*Descripción de la imagen: panel para la ceración de contenido específico para dispositivos móviles.*
+
 Una visita a la página de [complementos de WordPress](https://wordpress.org/plugins/) permite ver con claridad hasta que punto se puede **expandir el potencial** del mismo, añadiendo nuevas funcionalidades y características que permiten a los usuarios crear espacios nuevos. Si consultamos la sección de [plantillas “themes”](https://wordpress.org/themes/) también podemos hacernos una impresión de las posibilidades que puede permitir el software y lo extremadamente personalizable que puede llegar a ser.
 
 Además, **WordPress se integra con otras herramientas de software**, como servicios de alojamiento de sitios web (de hecho muchas empresas de hosting ofrecen la posibilidad de instalar sus versiones customizadas de WP) y plataformas de comercio electrónico, con lo que los usuarios pueden expandir las funcionalidades de sus páginas web e **integrarlos** de esta manera en **ecosistemas digitales** más grandes.
