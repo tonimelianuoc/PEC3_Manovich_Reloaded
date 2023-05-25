@@ -8,15 +8,6 @@ Fecha: 25.05.2023
 ![Adobe Indesing and WordPress logos](img/indesign_WP.jpg) 
 
 
-
-
-
-Siguiendo con las prácticas de la UOC, a continuación presentaré dos casos de hibridación según Lev Manovich
-
-**Adobe Indesign**. Se trata de un software que nace en un principio para la autoedición en la impresión profesional (fundamentalmente impresión offset) y con el tiempo ha desarrollado compatibilidad con otros formatos de publicación digital, como EPUB y HTML. De esta forma actualmente se puede crear contenidos con Adobe Indesign que puede ser exportado en varios formatos digitales, adaptados a diferentes dispositivos (pantallas, móviles, tablets).
-
-**WordPress (WP)**. Wordpress, es un sistema de gestor de contenidos (CMS) de código abierto, que en un principio apareció como plataforma de blog. Con el paso del tiempo WP ha ido evolucionando y añadiendo nuevas funcionalidades, trabajando con contenido estático y dinámico, integrándose con otras herramientas de software para ampliar su funcionalidad (a través de plugins), permitiendo crear una amplia grama de sitios webs, desde plataformas de comercio electrónico hasta medios de comunicación.
-
 ## Planteamiento
 
 Para esta práctica, he decido usar como ejemplos de hibridación, según Lev Manovich, dos software que conozco y utilizo desde su primera aparición en el mercado y en la comunidad (hace ya casi 20 años) y que son Adobe Indesign y WordPress. 
@@ -84,17 +75,17 @@ Además, **WordPress se integra con otras herramientas de software**, como servi
 
 ### Referencias y Bibliografía
 
-
+* Adobe Creative Suite, Wikipedia [Consulta 15/05/2023]. Disponible en: https://en.wikipedia.org/wiki/Adobe_Creative_Suite
 * Adobe InDesign, Wikipedia [Consulta 15/05/2023]. Disponible en: https://es.wikipedia.org/wiki/Adobe_InDesign
-* Dean Yeong,  20 Best WordPress Plugins [Consultta 15/05/2023]. Disponible: https://blog.appsumo.com/best-wordpress-plugins/
+* Dean Yeong, 20 Best WordPress Plugins [Consultta 15/05/2023]. Disponible: https://blog.appsumo.com/best-wordpress-plugins/
 * Ferran Adell, Remediación, multimedia e hibridación de los medios [Consulta 15/05/2023]. Disponible en: http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
 * Fundamentos y evolución de la multimedia, Grado Multimedia UOC [Consulta 15/05/2023]. Disponible en: http://multimedia.uoc.edu/blogs/fem/es/etiqueta/lev-manovich/
 * Jordi Alberich Pascual, Elementos de la creatividad multimedia: apropiación, remediación, hibiridación, publicado en Creación Culura digital, 18 de enero de 2018 [Consulta 15/05/2023]. Disponible en: https://mosaic.uoc.edu/2018/01/18/elementos-de-la-creatividad-multimedia-apropiacion-remediacion-hibridacion/
 * Hibridación de medios, Wikipedia [Consulta 15/05/2023]. Disponible en: https://es.wikipedia.org/wiki/Hibridaci%C3%B3n_de_medios
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 * WordPress, Wikipedia [Consulta 15/05/23]. Disponible en: https://en.wikipedia.org/wiki/WordPress
+* WordPress [Consulta 12/05/2023]. Disponible en: https://wordpress.org/
 
 ----
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. 
-Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
