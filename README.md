@@ -70,6 +70,9 @@ Los usuarios pronto descubrimos (y me incluyo personalmente) que WP podía usars
 
 Precisamente la naturaleza de **código abierto** es uno de los aspectos de la **hibridación** de WordPress. Al tener los usuarios acceso al código de la plataforma, entonces estos pueden realizar ajustes, cambios y modificaciones para satisfacer las necesidades específicas. Esta característica proporciona un **entorno flexible** y **modular**, con lo que los usuarios pueden añadir funciones o utilizar complementos (widgets) con código personalizado obteniendo un resultado diferente del que estaba previsto con el uso original de WordPress.
 
+![Adobe Indesing New document movil](img/Better-WP-elementor.png)
+*Descripción de la imagen: Imagen que representa el concepto modular de WP, © Elementor.*
+
 El propio proceso de desarrollo de WordPress desde su aparición hasta la actualidad, pasando de ser una plataforma exclusiva para la producción de blogs, a comenzar a dar **soporte** tanto a **contenido estático** como **dinámico** es otro aspecto de **hibridación** del mismo. WordPress permite crear páginas estáticas (como “contacto”, “metodología”) y también permite crear contenido dinámico (contenido que se muestra dependiendo de la selección que realiza el usuario), estas dos características han permitido **expandir el uso original del software** y desarrollarlo más allá de sus límites, dando la oportunidad a los usuarios de crear una amplia gama de sitios web, desde páginas corporativas hasta plataformas de comercio electrónico.
 
 ![Adobe Indesing New document movil](img/admin-01.png)
