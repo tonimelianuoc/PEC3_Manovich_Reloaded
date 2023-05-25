@@ -85,11 +85,6 @@ Además, **WordPress se integra con otras herramientas de software**, como servi
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
-* "El software toma el mando" Lev Manovich, 2013 (ePub)
-"Remediación, multimedia e hibridación de los medios" (Multimedia UOC)
-"Conocimiento Abierto y Tecnología" (Psicologiasocial)
-"Hibridación de medios" (Wikipedia)
-"Lev Manovich" (Wikipedia)
 * Adobe InDesign, Wikipedia [Consulta 15/05/2023]. Disponible en: https://es.wikipedia.org/wiki/Adobe_InDesign
 * WordPress, Wikipedia [Consulta 15/05/23]. Disponible en: https://en.wikipedia.org/wiki/WordPress
 * Ferran Adell, Remediación, multimedia e hibridación de los medios [Consulta 15/05/2023]. Disponible en: http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
