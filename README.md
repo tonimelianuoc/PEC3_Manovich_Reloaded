@@ -45,7 +45,7 @@ Esta última característica mencionada, o sea, la **integración de Adobe Indes
 
 Desde su aparición, Adobe Indesign ha ido poco a poco adquiriendo **funciones de otros programas del paquete de Adobe**, como por ejemplo las herramientas de pluma, que permiten realizar dibujos o las opciones para fusionar objetos (unir, sustraer, intersección, etc.) propias originalmente del programa *Adobe Illustrator*, o las herramientas efectos (sombras, multiplicar, etc.) originarias de *Adobe Photoshop*. Estas nuevas funciones expanden las capacidades del programa, más allá de la maquetación profesional (para la cual estaba destinado), facilitando el trabajo y permitiendo realizar gran parte del trabajo con un único programa.
 
-![Adobe Creative Suite ejemplo](img/)
+![Adobe Creative Suite ejemplo](img/herramientas_Digital_Publishing-02.jpg)
 
 Otro aspecto de la **hibridación** de *InDesign* es como se ha adaptado a los diferentes **formatos de publicación digital**, tales como son ***EPUB*** y ***HTML***. Actualmente *InDesign* permite a los usuarios crear contenido que puede ser exportado a los formatos digitales mencionados, con lo que los diseñadores pueden crear publicaciones digitales que pueden ser **visualizadas** en **varios tipos de dispositivos**, como teléfonos móviles, tablets o pantallas de ordenador. Esta **compatibilidad con los nuevos formatos** de publicación digital están apoyados con nuevas funciones en el software que permite el trabajo con los mismos, tales como los *hiperlinks*, los botones y formularios, la incorporación de elementos multimedia (video), animaciones, etc.
 
