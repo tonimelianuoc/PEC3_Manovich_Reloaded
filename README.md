@@ -84,10 +84,16 @@ Además, **WordPress se integra con otras herramientas de software**, como servi
 
 ### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+
 * Adobe InDesign, Wikipedia [Consulta 15/05/2023]. Disponible en: https://es.wikipedia.org/wiki/Adobe_InDesign
-* WordPress, Wikipedia [Consulta 15/05/23]. Disponible en: https://en.wikipedia.org/wiki/WordPress
+* Dean Yeong,  20 Best WordPress Plugins [Consultta 15/05/2023]. Disponible: https://blog.appsumo.com/best-wordpress-plugins/
 * Ferran Adell, Remediación, multimedia e hibridación de los medios [Consulta 15/05/2023]. Disponible en: http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
+* Fundamentos y evolución de la multimedia, Grado Multimedia UOC [Consulta 15/05/2023]. Disponible en: http://multimedia.uoc.edu/blogs/fem/es/etiqueta/lev-manovich/
+* Jordi Alberich Pascual, Elementos de la creatividad multimedia: apropiación, remediación, hibiridación, publicado en Creación Culura digital, 18 de enero de 2018 [Consulta 15/05/2023]. Disponible en: https://mosaic.uoc.edu/2018/01/18/elementos-de-la-creatividad-multimedia-apropiacion-remediacion-hibridacion/
+* Hibridación de medios, Wikipedia [Consulta 15/05/2023]. Disponible en: https://es.wikipedia.org/wiki/Hibridaci%C3%B3n_de_medios
+* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* WordPress, Wikipedia [Consulta 15/05/23]. Disponible en: https://en.wikipedia.org/wiki/WordPress
+
 ----
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. 
