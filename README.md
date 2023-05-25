@@ -39,13 +39,13 @@ La **composición digital de páginas** o **maquetación** es la distribución d
 
 En un principio *Adobe Indesign* aparece como un nuevo software para hacer la competencia al software profesional estándar utilizado en aquel momento, que era **QuarkXpress** y ganarle así su cuota de mercado. En aquellos primeros momentos los dos software eran utilizados para la **maquetación profesional** orientada a la impresión profesional, tanto **digital** como ***offset***(cuadricomía) y ambos tenían características muy similares. De aquella “**batalla**”, salió como vencedor Adobe Indesign, no tanto por su superioridad técnica, sino por su precio y su integración con el resto de programas de la familia de Adobe.
 
-
 ![Adobe Creative Suite ejemplo](img/AdobeCreativeSuite02.jpg)
-
 
 Esta última característica mencionada, o sea, la **integración de Adobe Indesign con el resto de los herramientas del paquete de Adobe**, es precisamente un aspecto clave en la **hibridación** de *Adobe Indesign*. La ***Suite Adobe Creative Cloud*** está compuesta de diferentes herramientas como son *Adobe Photoshop, Adobe After Effects* o *Adobe Illustrator*, entre otras. Estas herramientas están diseñadas para funcionar de forma independiente, cada una dentro de su dominio de trabajo específico, pero también han evolucionado, para poder **trabajar juntas** sin problemas, lo que permite a los usuarios transferir archivos entre las aplicaciones y también utilizar funciones de cada herramienta para completar el trabajo en Adobe Indesign.
 
 Desde su aparición, Adobe Indesign ha ido poco a poco adquiriendo **funciones de otros programas del paquete de Adobe**, como por ejemplo las herramientas de pluma, que permiten realizar dibujos o las opciones para fusionar objetos (unir, sustraer, intersección, etc.) propias originalmente del programa *Adobe Illustrator*, o las herramientas efectos (sombras, multiplicar, etc.) originarias de *Adobe Photoshop*. Estas nuevas funciones expanden las capacidades del programa, más allá de la maquetación profesional (para la cual estaba destinado), facilitando el trabajo y permitiendo realizar gran parte del trabajo con un único programa.
+
+![Adobe Creative Suite ejemplo](img/)
 
 Otro aspecto de la **hibridación** de *InDesign* es como se ha adaptado a los diferentes **formatos de publicación digital**, tales como son ***EPUB*** y ***HTML***. Actualmente *InDesign* permite a los usuarios crear contenido que puede ser exportado a los formatos digitales mencionados, con lo que los diseñadores pueden crear publicaciones digitales que pueden ser **visualizadas** en **varios tipos de dispositivos**, como teléfonos móviles, tablets o pantallas de ordenador. Esta **compatibilidad con los nuevos formatos** de publicación digital están apoyados con nuevas funciones en el software que permite el trabajo con los mismos, tales como los *hiperlinks*, los botones y formularios, la incorporación de elementos multimedia (video), animaciones, etc.
 
