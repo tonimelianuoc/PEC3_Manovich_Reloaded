@@ -48,7 +48,7 @@ Otro aspecto de la **hibridación** de *InDesign* es como se ha adaptado a los d
 En resumen, *Adobe InDesign* presenta **hibridación**, según Lev Manovich porque combina elementos de diseño de impresión tradicional con tecnologías digitales, permitiendo trabajar y exportar en formatos como *HTML* o *EPUB*, así como está diseñado para funcionar junto con otras herramientas de software de Adobe Creative Suite, que facilitan y expanden la publicación y el proceso de diseño.
 
 
-## Re-descubriendo la hibridacion: Wordpress
+## Re-descubriendo la hibridacion: WordPress
 
 
 **WordPress (WP)** es un sistema de gestión de contenidos (*CMS, Content Management System*) que combina elementos de desarrollo web y plataformas de blogs. Los usuarios pueden utilizarlo para crear y administrar sitios webs utilizando una gran variedad de herramientas y funciones, además de plantillas y complementos.
